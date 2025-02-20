@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\yaya.sutarya\\Documents\\AppData\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\yaya.sutarya\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\yaya.sutarya\\Documents\\flutter\\training_movie_app-main\\android\\app\\.cxx\\RelWithDebInfo\\6z26v364\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\yaya.sutarya\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\yaya.sutarya\\Documents\\flutter\\training_movie_app-main\\android\\app\\.cxx\\RelWithDebInfo\\6z26v364\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
